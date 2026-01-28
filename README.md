@@ -12,7 +12,7 @@ A **Model Context Protocol (MCP)**-based chatbot integrating **Spring Boot (AI +
 
 ---
 
-## 📌 Table of Contents  
+##  Table of Contents  
 - [Overview](#-overview)  
 - [Key Features](#-key-features)  
 - [Architecture](#-architecture)  
@@ -25,7 +25,7 @@ A **Model Context Protocol (MCP)**-based chatbot integrating **Spring Boot (AI +
 
 ---
 
-## 🌟 Overview  
+##  Overview  
 A modular chatbot demonstrating **MCP protocol** implementation with:  
 - **Spring Boot** (SSE-based MCP client/server)  
 - **Python/NodeJS** (STDIO-mode MCP tools)  
@@ -33,7 +33,7 @@ A modular chatbot demonstrating **MCP protocol** implementation with:
 
 ---
 
-## ✨ Key Features  
+##  Key Features  
 - **Multi-Backend Integration**:  
   - Spring AI + Ollama (Qwen3 model)  
   - Python/NodeJS MCP servers for tool execution.  
@@ -43,7 +43,7 @@ A modular chatbot demonstrating **MCP protocol** implementation with:
 
 ---
 
-## 🏗️ Architecture  
+##  Architecture  
 The project consists of four main components:  
 
 - **mcp-client/**: Spring Boot MCP Client  
@@ -66,7 +66,7 @@ The project consists of four main components:
 gi
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Prerequisites
 - [Ollama](https://ollama.ai/) (`ollama pull qwen3`)  
@@ -108,7 +108,7 @@ gi
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 - Use the Angular frontend to interact with the chatbot.  
 - The Spring Boot client communicates with MCP servers for AI and tool execution.  
@@ -116,7 +116,7 @@ gi
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - Java 17+, Spring Boot 3.x  
 - Angular 20.x  
@@ -127,7 +127,7 @@ gi
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 - Configure MCP servers in `mcp-client/src/main/resources/mcp-servers.json`.  
 - Application properties are in `src/main/resources/application.properties` for client and server.  
@@ -135,7 +135,7 @@ gi
 
 ---
 
-## 🧪 Testing & Debugging
+##  Testing & Debugging
 
 - Run unit tests for Spring Boot projects:  
   ```bash
@@ -149,7 +149,7 @@ gi
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 See the `Screenshots/` directory for visual references of the application in action.
 
