@@ -1,4 +1,4 @@
-# MCP-Spring-Python-AI: Multi-Protocol Chatbot 🚀  
+# MCP-Spring-Python-AI: Multi-Protocol Chatbot 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)  
@@ -157,6 +157,6 @@ See the `Screenshots/` directory for visual references of the application in act
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
